@@ -2,5 +2,5 @@
 
 ## Input
 ## Exceptions
-##IF
-##WHILE
+## IF
+## WHILE
